@@ -17,6 +17,6 @@ fi
 # ...or the Window Manager of your choice
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
 unclutter -grab &
-xmobar &
+# xmobar &
 setxkbmap -option caps:swapescape
 exec xmonad
