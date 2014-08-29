@@ -3,3 +3,4 @@ xterm*foreground: #EEEEEE
 xterm*font: *-fixed-*-*-*-12-*
 xterm*faceName: Luxi Mono
 xterm*faceSize: 9
+xterm*metaSendsEscape: true
