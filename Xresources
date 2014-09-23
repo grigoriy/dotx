@@ -107,7 +107,7 @@ URxvt*secondaryScreen:                1
 URxvt*secondaryScroll:                0
 ! URxvt*perl-lib:                       string
 ! URxvt*perl-eval:                      perl-eval
-URxvt*perl-ext-common:                default,matcher
+URxvt*perl-ext-common:                default,matcher,tabbedex
 ! URxvt*perl-ext:                       default,matcher
 ! URxvt*iso14755:                       boolean
 ! URxvt*iso14755_52:                    boolean
@@ -133,4 +133,5 @@ URxvt*matcher.button:                 1
 ! URxvt*tab-fg:                         colour
 ! URxvt*tabbar-bg:                      colour
 ! URxvt*tabbar-fg:                      colour
+URxvt*tabbed.autohide:                true
 URxvt*url-launcher:                   firefox
