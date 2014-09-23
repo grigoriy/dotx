@@ -19,4 +19,6 @@ fi
 unclutter -grab &
 setxkbmap -option caps:swapescape
 xflux -l 59.87 -g 30.33 &
+xbindkeys &
+xscreensaver &
 exec xmonad
