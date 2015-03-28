@@ -21,4 +21,5 @@ setxkbmap -option caps:swapescape
 xflux -l 59.87 -g 30.33 &
 xbindkeys &
 xscreensaver &
+xss-lock -- xscreensaver-command -lock &
 exec xmonad
